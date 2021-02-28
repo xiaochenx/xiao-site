@@ -4,6 +4,10 @@ body {
 h1,h2,h3{
     color: #FF851B;
 }
+h1{
+  font-size: 80px;
+  padding-left: 60px;
+}
 
   ul{
   text-align: left;
