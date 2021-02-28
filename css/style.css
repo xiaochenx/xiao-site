@@ -14,3 +14,9 @@ h1,h2,h3{
   padding-top: 20px;
   
 }
+li{
+  padding: 24px;
+  font-size:x-large;
+  font-family: Helvetica, sans-serif;
+}
+li a{color:white}
