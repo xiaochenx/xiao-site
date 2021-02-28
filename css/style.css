@@ -1,5 +1,6 @@
-body {
-  background: #001f3f;
+
+body{
+  background-color: #001f3f;
 }
 h1,h2,h3{
     color: #FF851B;
@@ -21,7 +22,6 @@ ul {
   padding-right: 60px;
   padding-bottom: 20px;
   padding-top: 20px;
-  
 }
 li{
   padding: 24px;
@@ -35,4 +35,9 @@ li a{color:white;
 li a:hover {
   background-color:#7FDBFF;
   color: black;
+}
+
+.picRight{
+  float: right;
+  margin-right: 450px;
 }
