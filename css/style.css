@@ -28,7 +28,9 @@ li{
   font-size:x-large;
   font-family: Helvetica, sans-serif;
 }
-li a{color:white}
+li a{color:white;
+  text-decoration: none;
+}
 
 li a:hover {
   background-color:#7FDBFF;
