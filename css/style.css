@@ -9,6 +9,15 @@ h1{
   font-size: 80px;
   padding-left: 60px;
 }
+#subHeader{
+  float: right;
+  margin-right: 505px;
+  margin-top: 50px;
+  color: #7FDBFF;
+  font-family: 'Courier New', monospace;
+  font-size: 20px;
+
+}
 ul {
   list-style-type:none;
   margin: 0;
@@ -27,6 +36,8 @@ li{
   padding: 24px;
   font-size:x-large;
   font-family: Helvetica, sans-serif;
+  background-color: #85144b;
+  width: 150px;
 }
 li a{color:white;
   text-decoration: none;
