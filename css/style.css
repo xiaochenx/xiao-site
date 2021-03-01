@@ -54,6 +54,7 @@ li a{color:white;
 li a:hover {
   color: white;
   font-size: xx-large;
+  transition: 0.2s;
 }
 
 .picRight{
