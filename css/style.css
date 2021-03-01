@@ -70,8 +70,7 @@ li a:hover {
   text-align: center;
   align-items: center;
   justify-content: center;
-  margin-left: 150px;
-  
+  margin-left: 150px; 
 }
 #social{
   display: flex;
