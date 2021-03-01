@@ -22,6 +22,7 @@ ul {
   list-style-type:none;
   margin: 0;
   padding: 0;
+
 }
 
   ul{
@@ -30,14 +31,20 @@ ul {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 20px;
-  padding-top: 20px;
+  padding-top: 0px;
+  
 }
 li{
+  margin: 10px 0;
+  border-radius: 25px;
   padding: 24px;
   font-size:x-large;
   font-family: Helvetica, sans-serif;
   background-color: #85144b;
-  width: 150px;
+  width: 100px;
+  box-shadow: 10px 5px 5px black;
+  text-align: center;
+  margin-left: 70px;
 }
 li a{color:white;
   text-decoration: none;
