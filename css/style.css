@@ -63,11 +63,7 @@ li a:hover {
 }
 
 
-#social{
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
+
 #social{
   display: flex;
   height: 100px;
@@ -96,7 +92,6 @@ li a:hover {
 }
 #social li:before{
   position: absolute;
-  content: '';
   top: 0;
   left: 0;
   height: inherit;
