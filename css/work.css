@@ -1,0 +1,36 @@
+img{
+    float: right;
+    margin-right: 160px;
+    margin-top: -20px;
+  }
+  body{
+    background-color: #001f3f;
+  }
+  h2,h3{
+    color: #FF851B;
+}
+h2{
+    font-size: 65px;
+    padding-left: 160px;
+    margin-top: 40px;
+}
+h3,ul{
+    margin-left: 230px;
+    margin-top: -15px;
+    font-size: 24px;
+}
+ul{
+    color: #AAAAAA;
+    list-style-type:square;
+}
+a{
+    color:#AAAAAA;
+}
+h3{
+    font-size: 30px;
+    line-height: 3;
+    margin-top: -25px;
+}
+li{
+    line-height: 2;
+}
