@@ -1,0 +1,31 @@
+body{
+    background-color: #001f3f;
+  }
+  h2{
+    color:#FF851B;
+    font-size: 80px;
+    padding-left: 100px;
+    margin-top: 40px;
+}
+ul{
+    color:#FF851B;
+    list-style: none;
+    line-height: 2;
+    margin-left: 60px;
+}
+.main{
+    font-size: 35px;
+    line-height: 1.6;
+    margin-left: 80px;
+   
+}
+.minor{
+    font-size: 27px;
+    margin-left: 5px;
+    list-style:square;
+}
+img{
+    float: right;
+    margin-right: 190px;
+    margin-top: -60px;
+  }
