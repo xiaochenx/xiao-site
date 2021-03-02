@@ -1,0 +1,26 @@
+body{
+    background-color: #001f3f;
+  }
+h2,pre{
+    color: #FF851B;
+}
+h2{
+    font-size: 80px;
+    padding-left: 100px;
+    margin-top: 40px;
+
+}
+img{
+    float: right;
+    margin-right: 220px;
+    margin-top: -10px;
+  }
+
+pre{
+    font-size: 20px;
+    font-family: Georgia, sans-serif;
+    letter-spacing: 1px;
+    line-height: 2;
+    
+    
+}
