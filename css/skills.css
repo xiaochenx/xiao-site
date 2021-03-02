@@ -1,0 +1,24 @@
+img{
+    float: right;
+    margin-right: 190px;
+    margin-top: -50px;
+  }
+  body{
+    background-color: #001f3f;
+  }
+  h2,h3,p,ul{
+    color: #FF851B;
+}
+h2{
+    font-size: 60px;
+    padding-left: 140px;
+    margin-top: 40px;
+}
+h3,p,ul{
+    margin-left: 230px;
+    margin-top: -15px;
+    font-size: 24px;
+}
+ul{
+    color: #AAAAAA;
+}
