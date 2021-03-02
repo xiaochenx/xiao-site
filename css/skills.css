@@ -1,7 +1,7 @@
 img{
     float: right;
-    margin-right: 190px;
-    margin-top: -50px;
+    margin-right: 160px;
+    margin-top: -80px;
   }
   body{
     background-color: #001f3f;
@@ -10,8 +10,8 @@ img{
     color: #FF851B;
 }
 h2{
-    font-size: 60px;
-    padding-left: 140px;
+    font-size: 65px;
+    padding-left: 160px;
     margin-top: 40px;
 }
 h3,p,ul{
@@ -21,4 +21,7 @@ h3,p,ul{
 }
 ul{
     color: #AAAAAA;
+}
+ul{
+  list-style-type:square;
 }
