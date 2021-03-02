@@ -12,7 +12,7 @@ h2{
 }
 img{
     float: right;
-    margin-right: 220px;
+    margin-right: 190px;
     margin-top: -10px;
   }
 
@@ -21,6 +21,6 @@ pre{
     font-family: Georgia, sans-serif;
     letter-spacing: 1px;
     line-height: 2;
-    
+    margin-left:30px;
     
 }
