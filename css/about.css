@@ -9,6 +9,11 @@ h2{
     padding-left: 100px;
     margin-top: 40px;
 }
+#mainHead{
+  color: #FF851B;
+  text-decoration: none;
+
+}
 img{
     float: right;
     margin-right: 190px;
