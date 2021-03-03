@@ -30,3 +30,6 @@ img{
     color: #AAAAAA;
     margin-left: -90px;
 }
+#content{
+    cursor: alias;
+}

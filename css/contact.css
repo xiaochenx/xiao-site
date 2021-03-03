@@ -34,5 +34,7 @@ img{
     margin-right: 190px;
     margin-top: -60px;
   }
-
+#email{
+    cursor:pointer;
+}
   

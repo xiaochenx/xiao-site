@@ -28,3 +28,7 @@ ul{
     color: #AAAAAA;
     list-style-type:square;
 }
+
+#content{
+  cursor: pointer;
+}
