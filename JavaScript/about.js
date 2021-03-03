@@ -9,3 +9,5 @@ function addingEventListener() {
     intro.addEventListener('click', clickAlert); 
 }
 addingEventListener();
+
+
