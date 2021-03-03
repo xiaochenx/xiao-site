@@ -7,6 +7,11 @@ body{
     padding-left: 100px;
     margin-top: 40px;
 }
+#mainHead{
+    color: #FF851B;
+    text-decoration: none;
+  
+  }
 ul{
     color:#FF851B;
     list-style: none;
